@@ -1,0 +1,49 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+}
+
+.main-div{
+    padding: 30px 20px;
+    /* margin-top: 100px; */
+    max-width: max-content;
+    /* text-align: center; */
+    margin: 50px auto;
+    background: silver;
+    border-radius: 20px;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: medium;
+}
+
+.btn-clear{
+  width: 295px !important;
+    
+}
+
+.row{
+  margin: 8px 0;
+  text-align: -webkit-center;
+}
+.row input{
+display: block;
+  width: 291px;
+  font-size: 20px;
+    margin: 10px 0px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btn-equal{
+    position: absolute;
+    padding-bottom: 100px;
+}
